@@ -32,4 +32,5 @@ def details(request, eid="0"):
     return response
     #return response
     #return tee
+    #jdhsjkdkj
 
