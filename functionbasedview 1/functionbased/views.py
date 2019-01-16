@@ -31,5 +31,5 @@ def details(request, eid="0"):
     response.write("</body></html>")
     return response
     #return response
-    #return response1
+    #return tee
 
