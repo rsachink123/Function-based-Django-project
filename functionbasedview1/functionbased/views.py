@@ -30,4 +30,5 @@ def details(request, eid="0"):
     except Employee.DoesNotExist:response.write("Sorry,Employee details does not exist.")
     response.write("</body></html>")
     return response
+    #return response
 
